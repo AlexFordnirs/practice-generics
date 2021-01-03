@@ -1,5 +1,7 @@
 package org.itstep.step03;
 
+import org.itstep.step02.Pair;
+
 import java.util.Iterator;
 
 /**

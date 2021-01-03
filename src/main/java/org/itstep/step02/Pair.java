@@ -18,4 +18,8 @@ public class Pair<One,Two>
         return twoElement;
     }
 
+    @Override
+    public String toString() {
+        return "<" + oneElement.toString() + ", " + twoElement.toString() + ">";
+    }
 }

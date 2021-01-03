@@ -6,6 +6,22 @@ package org.itstep.step01;
  * @author Nathan Sprague
  * @version V1, 8/2016
  */
+
+
+/*БОНУСНЫЙ ВОПРОС: Почему компилируется эта строка кода?
+   stadiums[0] = new ObjectPair("Bridgeforth Stadium", 25000);
+   по причине спользования Autoboxing , что привело к упаковки int в Integer при начале работы прогграммы
+   по сути эта функция, преобразования примитивных типов в эквивалентные объекты...
+*/
+
+
+
+
+
+
+
+
+
 public class ObjectPairDriver {
 
     /**
